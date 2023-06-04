@@ -25,7 +25,7 @@ If you are interested in contributing to enx.pw or running your own instance of 
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/your-username/enx.pw.git](https://github.com/CallumAS/ENX-Url-Shortener/releases/download/beta/release.zip)
+   git clone https://github.com/CallumAS/ENX-Url-Shortener/releases/download/beta/release.zip
    unzip release.zip
    ```
 
