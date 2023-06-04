@@ -23,9 +23,9 @@ No installation is required to use enx.pw. It is a web-based service that can be
 
 If you are interested in contributing to enx.pw or running your own instance of the URL shortener service, you can follow these steps:
 
-1. Clone the repository:
+1. Clone the release:
    ```
-   git clone https://github.com/CallumAS/ENX-Url-Shortener/releases/download/beta/release.zip
+   wget https://github.com/CallumAS/ENX-Url-Shortener/releases/download/beta/release.zip
    unzip release.zip
    ```
 
